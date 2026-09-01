@@ -1,0 +1,26 @@
+{
+  "initial": {
+    "before": {
+      "overlap": 59,
+      "fullyVisible": false,
+      "delta": 59
+    },
+    "after": {
+      "overlap": 0,
+      "fullyVisible": true,
+      "delta": -20
+    }
+  },
+  "afterScroll": {
+    "before": {
+      "delta": 59,
+      "fullyVisible": false,
+      "overlap": 59
+    },
+    "after": {
+      "delta": -20,
+      "fullyVisible": true,
+      "overlap": 0
+    }
+  }
+}
